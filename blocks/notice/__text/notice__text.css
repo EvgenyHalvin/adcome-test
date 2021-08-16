@@ -1,0 +1,15 @@
+.notice__text {
+  margin: 0 16px;
+  width: 340px;
+
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 16px;
+}
+
+@media screen and (max-width: 620px) {
+  .notice__text {
+    width: auto;
+    margin-bottom: 13px;
+  }
+}

@@ -1,0 +1,12 @@
+.warning__link {
+  text-decoration: underline;
+  color: #fff;
+}
+
+.warning__link:visited {
+  color: #fff;
+}
+
+.warning__link:hover {
+  color:rgb(197, 197, 197);
+}

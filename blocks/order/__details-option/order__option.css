@@ -1,0 +1,13 @@
+.order__option {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+@media screen and (max-width: 620px) {
+  .order__option {
+    justify-content: flex-start;
+    margin-bottom: 20px;
+  }
+}

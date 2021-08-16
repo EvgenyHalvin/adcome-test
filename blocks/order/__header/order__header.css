@@ -1,0 +1,35 @@
+.order__header {
+  width: calc(100% - 15px * 2);
+  height: 50px;
+  padding: 0 15px;
+  border-radius: 8px 8px 0 0;
+  flex-direction: row;
+  display: grid;
+  grid-template-columns: 1fr 96px 96px;
+  column-gap: 10px;
+
+  background-color: #7EB928;
+
+  font-family: "DIN Pro", Verdana, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 12px;
+  text-transform: uppercase;
+  color: #fff;
+}
+
+.order__header p {
+  margin: auto 0;
+  padding: 0;
+}
+
+.order__header p:nth-of-type(2) {
+  text-align: center;
+}
+
+@media screen and (max-width: 620px) {
+  .order__header {
+    grid-template-columns: 1fr 75px 76px;
+  }
+}

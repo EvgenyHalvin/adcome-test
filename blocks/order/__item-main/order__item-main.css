@@ -1,0 +1,11 @@
+.order__item-main {
+  display: flex;
+  flex-direction: row;
+}
+
+@media screen and (max-width: 620px) {
+  .order__item-main {
+    flex-direction: column;
+    margin: 5px auto 5px 0;
+  }
+}

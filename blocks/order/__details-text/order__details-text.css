@@ -1,0 +1,11 @@
+.order__details-text {
+  margin: 0;
+  padding: 0;
+
+  font-family: Verdana;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 11px;
+  line-height: 12px;
+  color: rgba(53, 53, 53, 0.54);
+}

@@ -1,0 +1,14 @@
+.footer-advantages__wrap {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 0 auto;
+  width: 100%;
+  max-width: 560px;
+}
+
+@media screen and (max-width: 620px) {
+  .footer-advantages__wrap {
+    flex-direction: column;
+  }
+}

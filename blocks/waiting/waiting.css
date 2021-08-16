@@ -1,0 +1,11 @@
+.waiting {
+  margin: 23px auto 0;
+
+  font-family: Verdana;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 15px;
+  line-height: 38px;
+  text-align: center;
+  color: #FFFFFF;
+}

@@ -1,0 +1,16 @@
+.order__details {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 30px * 2);
+  padding: 20px 30px;
+  border-radius: 0 0 8px 8px;
+
+  background-color: #F3F3F3;
+}
+
+@media screen and (max-width: 620px) {
+  .order__details {
+    flex-direction: column;
+  }
+}

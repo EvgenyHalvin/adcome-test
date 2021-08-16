@@ -1,0 +1,10 @@
+.order__details-img {
+  margin-right: 15px;
+}
+
+@media screen and (max-width: 620px) {
+  .order__details-img {
+    width: 26px;
+    height: auto;
+  }
+}

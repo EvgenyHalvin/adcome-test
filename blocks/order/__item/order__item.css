@@ -1,0 +1,16 @@
+.order__item {
+  padding: 0 15px;
+  display: grid;
+  grid-template-columns: 1fr 96px 96px;
+  grid-template-rows: auto;
+  column-gap: 10px;
+  
+  background-color: #fff;
+  border-bottom: 1px solid rgba(196, 196, 196, 0.19);
+}
+
+@media screen and (max-width: 620px) {
+  .order__item {
+    grid-template-columns: 1fr 75px 76px;
+  }
+}

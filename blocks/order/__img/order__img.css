@@ -1,0 +1,9 @@
+.order__img {
+  margin: 13px 0;
+}
+
+@media screen and (max-width: 620px) {
+  .order__img {
+    margin: 13px auto;
+  }
+}

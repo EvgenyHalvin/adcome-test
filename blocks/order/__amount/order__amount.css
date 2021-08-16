@@ -1,0 +1,11 @@
+.order__amount {
+  padding: 0;
+  margin: auto;
+
+  font-family: Verdana;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 25px;
+  color: #353535;
+}

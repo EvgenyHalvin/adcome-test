@@ -1,0 +1,84 @@
+@import url(../vendor/normalize.css);
+@import url(../fonts/fonts.css);
+@import url(../blocks/page/page.css);
+
+/* Стили для общих блоков и элементов (кнопки, иконки...) */
+@import url(../blocks/profile-icon/profile-icon.css);
+@import url(../blocks/burgerBtn/burgerBtn.css);
+@import url(../blocks/logo/logo.css);
+@import url(../blocks/logo/_place/logo_place_footer.css);
+
+/* Стили для header */
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__wrap/header__wrap.css);
+@import url(../blocks/header/__icons/header__icons.css);
+
+/* Стили для content*/
+@import url(../blocks/content/content.css);
+
+/* Стили для notice */
+@import url(../blocks/notice/notice.css);
+@import url(../blocks/notice/__message/notice__message.css);
+@import url(../blocks/notice/__title/notice__title.css);
+@import url(../blocks/notice/__text/notice__text.css);
+@import url(../blocks/notice/__img/notice__img.css);
+
+/* Стили для order */
+@import url(../blocks/order/order.css);
+@import url(../blocks/order/__header/order__header.css);
+@import url(../blocks/order/__items/order__items.css);
+@import url(../blocks/order/__item/order__item.css);
+@import url(../blocks/order/__img/order__img.css);
+@import url(../blocks/order/__item/_type/order__item_type_delivery.css);
+@import url(../blocks/order/__item/_type/order__item_type_fullprice.css);
+@import url(../blocks/order/__img/_type/order__img_type_delivery.css);
+@import url(../blocks/order/__description/order__description.css);
+@import url(../blocks/order/__amount/order__amount.css);
+@import url(../blocks/order/__price/order__price.css);
+@import url(../blocks/order/__price/_type/order__price_type_fullprice.css);
+@import url(../blocks/order/__payment-title/order__payment-title.css);
+@import url(../blocks/order/__details/order__details.css);
+@import url(../blocks/order/__details-option/order__option.css);
+@import url(../blocks/order/__detils-img/order__details-img.css);
+@import url(../blocks/order/__details-title/order__details-title.css);
+@import url(../blocks/order/__details-subtitle/order__details-subtitle.css);
+@import url(../blocks/order/__details-text/order__details-text.css);
+@import url(../blocks/order/__item-main/order__item-main.css);
+
+/* Стили для bonuses и bonus */
+@import url(../blocks/bonuses/bonuses.css);
+@import url(../blocks/bonus/bonus.css);
+@import url(../blocks/bonus/__img/bonus__img.css);
+
+/* Стили для waiting */
+@import url(../blocks/waiting/waiting.css);
+
+/* Стили для tagline */
+@import url(../blocks/tagline/tagline.css);
+
+/* Стили для warning */
+@import url(../blocks/warning/warning.css);
+@import url(../blocks/warning/__link/warning__link.css);
+
+/* Стили для footer */
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__wrap/footer__wrap.css);
+@import url(../blocks/footer/__text/footer__text.css);
+@import url(../blocks/footer/__text-link/footer__text-link.css);
+@import url(../blocks/footer/__last-line/footer__last-line.css);
+
+/* Стили для footer-advantages */
+@import url(../blocks/footer-advantages/footer-advantages.css);
+@import url(../blocks/footer-advantages/__wrap/footer-advantages__wrap.css);
+@import url(../blocks/footer-advantages/__option/footer-advantages__option.css);
+@import url(../blocks/footer-advantages/__img/footer-advantages__img.css);
+@import url(../blocks/footer-advantages/__options/footer-advantages__options.css);
+@import url(../blocks/footer-advantages/__text/footer-advantages__text.css);
+
+/* Стили для footer-actions и footer-action */
+@import url(../blocks/footer-actions/footer-actions.css);
+@import url(../blocks/footer-action/footer-action.css);
+@import url(../blocks/footer-action/__title/footer-action__title.css);
+@import url(../blocks/footer-action/__text/footer-action__text.css);
+@import url(../blocks/footer-action/__icons-wrap/footer-action__icons-wrap.css);
+@import url(../blocks/footer-action/__icon-links/footer-action__icon-links.css);

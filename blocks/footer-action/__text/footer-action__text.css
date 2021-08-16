@@ -1,0 +1,17 @@
+.footer-action__text {
+  text-decoration: none;
+
+  font-family: Verdana;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 23px;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+@media screen and (max-width: 620px) {
+  .footer-action__text {
+    text-align: left;
+  }
+}

@@ -1,0 +1,9 @@
+.footer-advantages__text {
+  width: auto;
+}
+
+@media screen and (max-width: 420px) {
+  .footer-advantages__text {
+    width: 45px;
+  }
+}

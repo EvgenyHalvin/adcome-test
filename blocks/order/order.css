@@ -1,0 +1,12 @@
+.order {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin: 52px auto 0;
+}
+
+@media screen and (max-width: 620px) {
+  .order {
+    margin-top: 20px;
+  }
+}

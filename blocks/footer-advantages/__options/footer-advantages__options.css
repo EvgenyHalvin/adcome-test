@@ -1,0 +1,15 @@
+.footer-advantages__options {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: auto 0;
+  width: 100%;
+}
+
+@media screen and (max-width: 620px) {
+  .footer-advantages__options {
+    margin: 10px 0 0;
+    padding: 0 10px;
+    width: calc(100% - 20px);
+  }
+}

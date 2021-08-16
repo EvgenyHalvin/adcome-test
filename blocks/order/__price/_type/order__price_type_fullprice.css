@@ -1,0 +1,10 @@
+.order__price_type_fullprice {
+  font-size: 16px;
+  color: #393D41;
+}
+
+@media screen and (max-width: 400px) {
+  .order__price_type_fullprice {
+    font-size: 14px;
+  }
+}

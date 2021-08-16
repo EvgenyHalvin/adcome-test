@@ -1,0 +1,12 @@
+.footer__text-link {
+  text-decoration: underline;
+  color: #8B8E90;
+}
+
+.footer__text-link:visited {
+  color: #8B8E90;
+}
+
+.footer__text-link:hover {
+  color:rgb(197, 197, 197);
+}

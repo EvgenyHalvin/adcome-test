@@ -1,0 +1,10 @@
+.footer-advantages__img {
+  margin-right: 4px;
+}
+
+@media screen and (max-width: 360px) {
+  .footer-advantages__img {
+    width: 20px;
+    margin-right: 0px;
+  }
+}

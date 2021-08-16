@@ -1,0 +1,4 @@
+.footer-action {
+  display: flex;
+  flex-direction: column;
+}

@@ -1,0 +1,11 @@
+.order__details-title {
+  padding: 0;
+  margin: 0;
+
+  font-family: Verdana;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 12px;
+  color: #393D41;
+}

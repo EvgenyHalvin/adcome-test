@@ -1,0 +1,7 @@
+.footer-action__icon-links {
+  margin-right: 45px;
+}
+
+.footer-action__icon-links:last-of-type {
+  margin-right: 0;
+}

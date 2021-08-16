@@ -1,0 +1,11 @@
+.notice__img {
+  position: absolute;
+  top: -15px;
+  right: -22px;
+}
+
+@media screen and (max-width: 620px) {
+  .notice__img {
+    display: none;
+  }
+}

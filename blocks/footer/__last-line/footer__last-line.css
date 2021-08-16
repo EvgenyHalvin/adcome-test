@@ -1,0 +1,12 @@
+.footer__last-line {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+
+@media screen and (max-width: 620px) {
+  .footer__last-line {
+    margin-bottom: 15px;
+  }
+}

@@ -1,0 +1,23 @@
+.order__description {
+  margin: auto 0 auto 15px;
+  padding: 0;
+
+  font-family: Verdana;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 17px;
+  text-decoration-line: underline;
+  color: #353535;
+}
+
+.order__description:hover {
+  color: rgb(94, 185, 221);
+}
+
+@media screen and (max-width: 620px) {
+  .order__description {
+    margin-left: 0;
+    text-align: center;
+  }
+}

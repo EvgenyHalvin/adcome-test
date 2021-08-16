@@ -1,0 +1,11 @@
+.footer-action__icons-wrap {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+@media screen and (max-width: 620px) {
+  .footer-action__icons-wrap {
+    justify-content: flex-start;
+  }
+}

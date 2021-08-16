@@ -1,0 +1,20 @@
+.footer-advantages__option {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 5px 8px 5px 0;
+  
+  text-decoration: none;
+}
+
+@media screen and (max-width: 620px) {
+  .footer-advantages__option {
+    align-items: flex-start;
+  }
+}
+
+@media screen and (max-width: 420px) {
+  .footer-advantages__option {
+    margin-right: 2px;
+  }
+}

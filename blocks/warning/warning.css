@@ -1,0 +1,21 @@
+.warning {
+  margin: 19px auto 0;
+  padding: 15px 30px;
+  width: calc(100% - 60px);
+  background-color: #A60229;
+
+  font-family: Verdana;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 23px;
+  text-align: center;
+  color: #fff;
+}
+
+@media screen and (max-width: 620px) {
+  .warning {
+    width: calc(100% - 20px);
+    padding: 10px 10px;
+  }
+}

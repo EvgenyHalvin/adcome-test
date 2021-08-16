@@ -1,0 +1,18 @@
+.order__payment-title {
+  padding: 0;
+  margin: auto 0;
+
+  font-family: Verdana;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 17px;
+  line-height: 25px;
+  text-transform: uppercase;
+  color: #393D41;
+}
+
+@media screen and (max-width: 400px) {
+  .order__payment-title {
+    font-size: 14px;
+  }
+}
