@@ -1,4 +1,4 @@
 # Тестовое для adcome
 
-**Ссылка на сайт**
+**Ссылка на сайт:**
 https://evgenyhalvin.github.io/adcome-test/
